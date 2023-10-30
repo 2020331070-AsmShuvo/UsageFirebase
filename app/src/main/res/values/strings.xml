@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase_login_Signup</string>
+    <string name="title_activity_sp">SpActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID_HERE</string>
+    <string name="title_activity_add_note">AddNote</string>
+
+</resources>
