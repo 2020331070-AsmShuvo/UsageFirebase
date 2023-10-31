@@ -30,5 +30,8 @@ class MainActivity : AppCompatActivity() {
         binding.CreateNote.setOnClickListener {
             startActivity(Intent(this, AddNote::class.java))
         }
+        binding.OpenNote.setOnClickListener {
+            startActivity(Intent(this, AllNotes::class.java))
+        }
     }
 }
